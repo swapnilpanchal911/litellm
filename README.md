@@ -1,3 +1,7 @@
+# Pre-requisite
+
+docker setup on local machine
+
 # Setup LiteLLM locally using Docker
 
 1) Get the code
